@@ -6,7 +6,6 @@ Java Developer based in Brasília, Brazil 🇧🇷 — building scalable backend
 
 - 🔭 Currently working as a Java Developer, building REST APIs and distributed systems
 - 🎙️ **Coordinator & Speaker at SouJava Brasília** — one of Brazil's most active Java communities
-- 🌎 Targeting **senior/staff-level opportunities in the US market**
 - ✍️ Writing about Java, architecture and software engineering at **[borges.digital](https://borges.digital)**
 - 📚 Continuously leveling up in cloud, distributed systems and software architecture
 
