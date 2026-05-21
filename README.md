@@ -1,4 +1,4 @@
-# Hey, I'm Ariel Borges 👋
+# Hey, I'm Borges 👋
 
 Java Developer based in Brasília, Brazil 🇧🇷 — building scalable backend systems and contributing to the Java community.
 
@@ -32,7 +32,7 @@ Java Developer based in Brasília, Brazil 🇧🇷 — building scalable backend
 | Project | Description | Stack |
 |---|---|---|
 | [ead-project](https://github.com/arielborges/ead-project) | E-learning platform with microservices, RabbitMQ and Circuit Breaker | Java 11, Spring Cloud, RabbitMQ, Eureka |
-| [velosoERP](https://github.com/arielborges/velosoERP) | ERP backend with clean architecture and production-ready practices | Java 21, Spring Boot 3.5, MapStruct, AOP |
+| [springErpApi](https://github.com/arielborges/velosoERP) | ERP backend with clean architecture and production-ready practices | Java 21, Spring Boot 3.5, MapStruct, AOP |
 
 ## 📫 Let's Connect
 
